@@ -1,0 +1,6 @@
+funcoesUseACabeca.py
+setup.py
+funcoesUseACabeca.egg-info/PKG-INFO
+funcoesUseACabeca.egg-info/SOURCES.txt
+funcoesUseACabeca.egg-info/dependency_links.txt
+funcoesUseACabeca.egg-info/top_level.txt
